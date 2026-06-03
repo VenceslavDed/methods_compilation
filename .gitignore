@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Build Outputs
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+
+# Интерпретатор
+code/interpreter/.vs/
+code/interpreter/interpreter/x64/
+code/interpreter/interpreter/Debug/
+code/interpreter/interpreter/Release/
